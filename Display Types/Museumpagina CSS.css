@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #f55;
+    clear: both;
+    margin: 0;
+    padding: 30px;
+}
+body {
+    font-family: sans-serif;
+    background-color: yellow;
+}
+nav {
+    background-color: red;
+    height: 39px;
+}
+nav a {
+    display: block;
+    color: white;
+    width: 200px;
+    padding: 10px 20px; 
+    text-decoration: none;
+    float: left;
+    text-align: center;
+}
+nav a:hover {
+    background-color: black;
+}
+footer {
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+}
